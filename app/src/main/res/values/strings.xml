@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Copeck</string>
+
+    <string name="label_home">Главная</string>
+    <string name="label_stats">Статистика</string>
+    <string name="label_history">История</string>
+
+    <string name="currency_ruble">₽</string>
+    <string name="currency_dollar">$</string>
+    <string name="currency_euro">€</string>
+    <string name="currency_renminbi">¥</string>
+    <string name="currency_pound">£</string>
+
+    <string name="home_screen_headline">Главная</string>
+    <string name="home_screen_balance">Баланс</string>
+    <string name="home_screen_incomes">Доходы</string>
+    <string name="home_screen_expenses">Расходы</string>
+
+    <string name="stats_screen_headline">Статистика</string>
+    <string name="stats_screen_incomes">Доходы</string>
+    <string name="stats_screen_expenses">Расходы</string>
+
+    <string name="history_screen_headline">История</string>
+
+    <string name="it_s_empty_here">Странное чувство пустоты, вызываемое всяким «после».</string>
+    <string name="placeholder_author">«Триумфальная арка», Эрих Мария Ремарк</string>
+
+    <string name="settings_screen_headline">Настройки</string>
+
+    <string name="add_transaction_screen_income">Доход</string>
+    <string name="add_transaction_screen_expense">Расход</string>
+    <string name="add_transaction_screen_sum">Сумма</string>
+    <string name="add_transaction_screen_category">Категория</string>
+    <string name="add_transaction_screen_date">Дата</string>
+    <string name="add_transaction_screen_add">Добавить</string>
+    <string name="add_transaction_choose">Выбрать</string>
+
+    <string name="menu_test_headline">Тестовая комната</string>
+    <string name="menu_test_snackbar">Показать Snackbar</string>
+    <string name="menu_test_toast">Показать Toast</string>
+
+</resources>
